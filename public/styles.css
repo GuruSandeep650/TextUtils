@@ -1,0 +1,24 @@
+.fa {
+    margin: 10px;
+    width: 45px;
+    height: 30px;
+    text-decoration: none;
+  }
+  
+  .about-section{
+    margin-top: 10%;
+    text-align: center;
+    color:rgb(56, 54, 207);
+  }
+
+  .fa-instagram{
+    color: #E1306C;
+  }
+  
+  .fa-linkedin {
+    color: #0077b5;
+  }
+  
+  .fa-youtube {
+    color: #cd201f;
+  }
